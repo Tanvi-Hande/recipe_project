@@ -1,4 +1,4 @@
-<h1> Recipe App</h1>
+<h1> MyRecipe.com</h1>
 <h2>this project is created under intership. this app will help user to upload his own recipe and manage them and who want to try some new recipe, our app help them to show simple steps and ingrediants information 
 <h2>Some Screenshots :</h2>
 
